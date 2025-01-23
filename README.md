@@ -31,7 +31,12 @@ At ZM Tech, I developed and optimized ETL pipelines, automated data processing t
 **Business Intelligence & Data Visualization:** Tableau, Power BI, Qlik Sense, Looker Studio, Excel, Microsoft Power Point, Visio, Lucid  
 **Other Skills:** Machine Learning (SkLearn, PyTorch, TensorFlow, Matplotlib, Numpy, Pandas, NLP), Agile, Scrum, Jira, UML, SDLC.
 
-Contact Information:
-📧 Email: nehashridharsatpute@gmail.com
-🔗 LinkedIn: 💼 Neha Satpute
+Here's the updated version with the LinkedIn symbol included:
+
+---
+
+### **Contact Information:**
+- 📧 **Email:** [nehashridharsatpute@gmail.com](mailto:nehashridharsatpute@gmail.com)
+- 🔗 **LinkedIn:** [💼 Neha Satpute](https://www.linkedin.com/in/neha-satpute-1a9877276/)
+
 
